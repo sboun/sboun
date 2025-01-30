@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! My name is Stephanie  
+<a href="https://github.com/sboun" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sbounyavong" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-<!--
-**sboun/sboun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at Code Platoon - where I am participating in their full-stack engineering program.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tidbits
+- 🔭 I’m currently working on an application that streamlines workload distribution in cytology labs 
+- ⚡ Fun fact: My hobbies include crocheting, sailing, power yoga, and fishing! 
